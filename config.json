@@ -1,0 +1,11 @@
+{
+    "animation_duration": 0.3,
+    "feedback_size": 30,
+    "opacity": 1.0,
+    "colors": {
+        "1": "rgba(255, 0, 0, 1)",
+        "2": "rgba(255, 255, 0, 1)",
+        "3": "rgba(0, 255, 0, 1)",
+        "4": "rgba(0, 255, 255, 1)"
+    }
+}
